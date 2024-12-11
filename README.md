@@ -1,8 +1,7 @@
 # **SwimVision: Automated Swimmer Tracking and Activity Classification in Competitive Swimming**
 
 ## **Authors**
-- [Your Name]  
-- [Team Members' Names]
+- Philip Paškov
 
 ---
 
