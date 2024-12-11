@@ -30,11 +30,6 @@ The primary goals of the project are:
 - **`outputs/`**: Includes results such as annotated videos and 2D pool visualizations.
 - **`README.md`**: This file, explaining the project, structure, and replication steps.
 
-### **Poster Presentation**
-The **poster** and all related visual materials are available in the `poster/` directory.  
-
----
-
 ## **Replication Guide**
 
 ### **Step 1: Setting Up the Environment**
