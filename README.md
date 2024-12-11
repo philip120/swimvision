@@ -68,6 +68,4 @@ python batches_main.py
 
 ## **Additional Information**
 
-The repository includes exploratory and experimental scripts that are not reflected in the presented results. These scripts demonstrate the extent of work done and provide additional insights into the system's development process.
-
-If you encounter any issues or have questions about the code or dataset, feel free to open an issue or contact the authors.
+Unfortunately the models are too big to upload in github.
