@@ -55,7 +55,7 @@ The **poster** and all related visual materials are available in the `poster/` d
 ### **Step 2: Running the Pipeline**
 To process a swimming video, use the main script:  
 ```bash
-python batches_main.py --input videos/example.mp4 --output outputs/annotated_video.mp4
+python batches_main.py
 ```
 
 ---
