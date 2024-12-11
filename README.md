@@ -26,7 +26,6 @@ The primary goals of the project are:
   - **`tracker.py`**: Code for swimmer tracking and classification.
   - **`pool_mapper.py`**: Logic for pool keypoint detection and mapping.
   - **`batches_main.py`**: Main script for processing videos in batches.
-- **`notebooks/`**: Jupyter notebooks for exploratory data analysis and testing models.
 - **`outputs/`**: Includes results such as annotated videos and 2D pool visualizations.
 - **`README.md`**: This file, explaining the project, structure, and replication steps.
 
