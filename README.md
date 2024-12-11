@@ -18,9 +18,6 @@ The primary goals of the project are:
 ## **Guide to Repository Contents**
 
 ### **Main Files and Directories**
-- **`datasets/`**: Contains annotated datasets for swimmer detection and activity classification.
-  - **`swimmer_detection/`**: Bounding box annotations for YOLO detection model.
-  - **`activity_classification/`**: Images categorized into start, freestyle, and underwater classes.
 - **`models/`**: Contains pre-trained and trained model files.
   - **`yolo/`**: YOLO models for swimmer detection.
   - **`mobilenetv2/`**: MobileNetV2 model for activity classification.
