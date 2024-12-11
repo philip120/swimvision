@@ -51,21 +51,8 @@ The **poster** and all related visual materials are available in the `poster/` d
    pip install -r requirements.txt
    ```
 
-### **Step 2: Preparing the Data**
-1. Download and extract the datasets into the `datasets/` directory.
-2. Ensure that the data annotations match the formats used by YOLO and MobileNetV2.  
 
-### **Step 3: Training the Models**
-1. To train the YOLO detection model, navigate to the `src/` folder and run:  
-   ```bash
-   python train_yolo.py --config configs/yolo_config.yaml
-   ```
-2. To train the MobileNetV2 classification model, use:  
-   ```bash
-   python train_mobilenet.py --data datasets/activity_classification/
-   ```
-
-### **Step 4: Running the Pipeline**
+### **Step 2: Running the Pipeline**
 To process a swimming video, use the main script:  
 ```bash
 python batches_main.py --input videos/example.mp4 --output outputs/annotated_video.mp4
